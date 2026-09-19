@@ -1,0 +1,17 @@
+Sales Analysis Report
+====================
+Dataset rows: 200
+Dataset columns: ['TV', 'Radio', 'Newspaper', 'Sales']
+
+Channel influence on sales:
+TV           0.782224
+Radio        0.576223
+Newspaper    0.228299
+
+Best predictive model:
+- Random Forest
+
+Model comparison:
+            Model      MAE      MSE     RMSE  R2_Score
+    Random Forest 0.628925 0.574044 0.757657  0.981813
+Linear Regression 1.460757 3.174097 1.781600  0.899438

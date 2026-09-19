@@ -1,0 +1,7 @@
+Sales Prediction Model Report
+============================
+Best Model: Random Forest
+
+            Model      MAE      MSE     RMSE  R2_Score
+    Random Forest 0.628925 0.574044 0.757657  0.981813
+Linear Regression 1.460757 3.174097 1.781600  0.899438
